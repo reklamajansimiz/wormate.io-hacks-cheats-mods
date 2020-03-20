@@ -1,1 +1,10 @@
-# wormate.io-hacks-cheats-mods
+<h3>Other Websites & Mods</h3>
+<b>1- <a href="https://iomods.org" target="_blank">IOMODS.ORG</a> | 2- <a href="https://slithere.com" target="_blank">SLITHERE.COM</a> | 3- <a href="https://krunkerio.org" target="_blank">KRUNKERIO.ORG</a> | 4- <a href="https://krunkerio.net" target="_blank">KRUNKERIO.NET</a> | 5- <a href="https://krunkerioplay.com" target="_blank">KRUNKERIOPLAY.COM</a> <hr>
+6- <a href="https://mope-io.net" target="_blank">MOPE-IO.NET</a> | 7- <a href="https://moomooioplay.com" target="_blank">MOOMOOIOPLAY.COM</a> | 8- <a href="https://skribbl-io.net" target="_blank">SKRIBBL-IO.NET</a> | 9- <a href="https://survivio.info" target="_blank">SURVIVIO.INFO</a> | 10- <a href="https://zombsroyaleio.org" target="_blank">ZOMBSROYALEIO.ORG</a></b>
+
+<h3>How to Install</h3><h4>Step 1:</h4><ul><li><img src="https://iomods.org/mods/chrome.png" alt="chrome"> <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a></li><li><img src="https://iomods.org/mods/firefox.png" alt="firefox"> <a href="https://addons.mozilla.org/firefox/addon/greasemonkey/">Greasemonkey</a></li><li><img src="https://iomods.org/mods/opera.png" alt="opera"> <a href="https://addons.opera.com/extensions/details/tampermonkey-beta/" rel="nofollow">Tampermonkey</a> or <a href="https://addons.opera.com/extensions/details/violent-monkey/" rel="nofollow">Violentmonkey</a></li><li><img src="https://iomods.org/mods/safari.png" alt="safari"> <a href="https://safari.tampermonkey.net/tampermonkey.safariextz" rel="nofollow">Tampermonkey</a> or <a href="https://github.com/os0x/NinjaKit">NinjaKit</a></li></ul>
+
+<h4>Step 2:</h4>
+<ul><li><a href="https://iomods.org/" rel="nofollow">Install</a> <em>from iomods.org</em></li></ul>
+
+<a href="https://www.youtube.com/c/pignuts" rel="nofollow"><img src="https://iomods.org/mods/youtube.jpg"></a> <a href="https://facebook.com/slitherecom"><img src="https://iomods.org/mods/facebook.jpg"></a>
